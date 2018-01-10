@@ -1,4 +1,4 @@
 # miscellaneous
 spasibo github!
-This is just a miscellanoues respirotary.Nothing more. :)
+This is just a miscellanoues repository. Nothing more. :)
 poka !
